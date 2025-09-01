@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 80px;
+  font-weight: 700;
+  letter-spacing: -5px;
+  color: #000000;
+  margin-bottom: 50px;
+}
+
+p.subtitle {
+  font-size: 28px;
+  color: #000000;
+  margin-bottom: 30px;
+}
+
+button {
+  padding: 30px 70px;
+  font-size: 10px;
+  background: rgb(8, 60, 213);
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #008000;
+}
+
+#quote {
+  margin-top: 30px;
+  font-size: 35px;
+  font-style: normal;
+  color: #000000;
+}
+
+#author {
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #222;
+}
